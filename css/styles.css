@@ -1,0 +1,304 @@
+
+#title {
+  background-color: #576F72;
+}
+
+#features {
+  background-color: #E4DCCF;
+  padding-bottom: 5%;
+}
+
+.features-image {
+}
+
+.features-image:hover {
+  filter: saturate(250%);
+}
+
+.card-img-top {
+  background-color: none;
+}
+
+.features-cards {
+  text-align: center;
+  margin: 10% auto;
+  border: 1px solid;
+  border-radius: 20px;
+  border-color: #576F72;
+  box-shadow: 10px 10px 5px #aaaaaa;
+  width: 90%;
+  max-width: 300px;
+  max-height: 300px;
+}
+
+.feature-p {
+  margin-bottom: 15%;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: Vazirmatn, sans-serif;
+  font-size: 1rem;
+  color: #222224;
+}
+
+.h1-title {
+  font-family: Vazirmatn, sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #222224;
+}
+
+.top-hr {
+}
+
+.bottom-hr {
+  position: relative;
+  margin-top: 50px;
+}
+
+.features-cols {
+  display: table-cell;
+}
+
+h1 {
+  font-family: Vazirmatn, sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #222224;
+}
+
+.container-fluid {
+   padding-left: 10%!important;
+   padding-right: 10%!important;
+   padding-top: 2% !important;
+   padding-bottom: 5% !important;
+}
+
+.features-container {
+  display: table;
+  padding-top: 5%;
+}
+
+.features-row {
+  display: table-row;
+  height: 40%;
+  text-align: center;
+}
+
+.navconfig{
+  font-family: Vazirmatn, sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 4rem;
+}
+
+.features-section{
+  text-align: center;
+  padding: : 10% auto!important;
+}
+
+.features-col-1 {
+}
+
+.features-header {
+  padding-top: 1%;
+  padding-bottom: 5%;
+}
+
+.nav-link
+{
+  color: #E4DCCF!important;
+}
+
+.btn-style {
+  font-family: Vazirmatn, sans-serif!important;
+  font-size: 2rem;
+  font-weight: bold!important;
+}
+
+.right-column {
+  text-align: right;
+}
+
+.features-h3 {
+    font-family: 'Rubik', sans-serif;
+    font-weight: bold;
+}
+
+.fa-solid{
+  padding-right: 10px;
+}
+
+.nav-item
+{
+  padding: 0 10px;
+  text-align: right;
+}
+
+.left-column {
+  text-align: left;
+}
+
+.navbar-brand
+{
+  padding-left: 5%;
+}
+
+.h2-title {
+  font-family: Vazirmatn, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+  color: #222224;
+}
+
+.h3-title {
+  font-family: Vazirmatn, sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #222224;
+}
+
+.h2-style {
+  font-family: Vazirmatn, sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: #222224;
+}
+
+.h3-title-english{
+  font-family: 'Rubik', sans-serif;
+  font-weight: normal;
+  color: #222224;
+}
+
+.top-texts {
+  line-height: 4;
+  color: #E4DCCF!important;
+}
+
+/* Testimonials */
+
+#testimonials {
+  background-color: #7D9D9C;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+.h2-testimonial {
+  padding: 3% 5% 3%;
+  font-family: Vazirmatn, sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  color: #E4DCCF;
+}
+
+.img-testimonial{
+  margin-bottom: 1%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.italic-testimonial {
+  display: block;
+  text-align: center;
+  margin-bottom: 3%;
+  font-family: Vazirmatn, sans-serif;
+  font-size: 1rem;
+  font-weight: italic;
+  color: #E4DCCF;
+}
+
+em {
+  text-align: center;
+}
+
+.testimonial-div {
+  text-align: center;
+}
+
+#press {
+  margin: 10%;
+}
+
+#pricing {
+  color: #576F72;
+  margin: 5%;
+  text-align: center;
+
+}
+
+
+ @media screen and (max-width: 1000px) {
+
+  .card-style {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 12%;
+  margin-right: 12%;
+  font-family: Vazirmatn, sans-serif;
+  font-size: 1rem;
+  line-height: 3;
+  }
+
+  }
+
+  @media screen and (min-width: 1000px) {
+
+   .card-style {
+   font-family: Vazirmatn, sans-serif;
+   font-size: 1rem;
+   line-height: 3;
+   }
+
+   }
+
+
+
+.card-body {
+  font-family: Vazirmatn, sans-serif;
+  font-size: 1rem;
+  line-height: 3;
+}
+
+  .card-header {
+    padding: 5%!important;
+  }
+}
+
+.card-header {
+  padding: 10%!important;
+}
+
+.card-header-h3 {
+  font-size: 1.5rem;
+}
+
+#cta {
+  font-family: Vazirmatn, sans-serif;
+  color: #E4DCCF;
+  padding: 6%;
+  text-align: center;
+  background-color: #576F72;
+}
+
+.cta-button {
+  color: #E4DCCF!important;
+  margin: 5% 3% 3%!important;
+}
+
+.pricing-h2-style {
+  font-family: Vazirmatn, sans-serif;
+  font-size: 2rem;
+  font-weight: bold;
+    color: #576F72;
+  margin: 3% auto;
+}
+
+.pricing-p-style {
+  font-family: Vazirmatn, sans-serif;
+  font-size: 1rem;
+  font-weight: bold;
+    color: #576F72;
+  margin: 3% auto;
+}
